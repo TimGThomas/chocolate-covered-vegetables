@@ -1,0 +1,13 @@
+$background: #faf8ee;
+$foreground: #61422a;
+
+body {
+  padding-top: 10vw;
+
+  background-color: $background;
+
+  color: $foreground;
+  font: 2vw 'Josefin Sans';
+  text-align: center;
+  text-transform: uppercase;
+}

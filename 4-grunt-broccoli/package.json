@@ -1,0 +1,7 @@
+{
+  "devDependencies": {
+    "broccoli": "^0.16.9",
+    "grunt": "^0.4.5",
+    "grunt-broccoli": "^0.4.1"
+  }
+}
